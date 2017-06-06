@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Fedir Korniienko on 05.06.17.
+
+*/
+"CAR LIST" = "Список Машин";
+"Weather" = "Погода";
+"Info Car" = "Информация о машине";
+"manual" = "ручной";
+"auto" = "автомат";
+"new" = "новый";
+"good" = "хорошее";
+"old" = "старое";
+"Engine: " = "Мотор: ";
+"Transmission: " = "Трансмиссия: ";
+"condition: " = "состояние: ";
+"city: " = "город: ";
+"temperature: "  = "температура: ";
+"description: " = "описание: ";
+"price" = "цена";
+"car" = "марка";
+"Enter your city" = "Введите город";
+"Done" = "Готово";
+"Find" = "Найти";

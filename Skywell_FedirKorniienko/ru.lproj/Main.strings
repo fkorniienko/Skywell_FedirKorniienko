@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "price:"; ObjectID = "2tz-vO-jy1"; */
+"2tz-vO-jy1.text" = "price:";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "5Z8-cY-uAQ"; */
+"5Z8-cY-uAQ.normalTitle" = ">";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "6Oi-qO-Edb"; */
+"6Oi-qO-Edb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; text = "condition:"; ObjectID = "JEZ-dS-vXx"; */
+"JEZ-dS-vXx.text" = "condition:";
+
+/* Class = "UILabel"; text = "car:"; ObjectID = "Ks6-8V-2fh"; */
+"Ks6-8V-2fh.text" = "car:";
+
+/* Class = "UITextField"; text = "Engine:"; ObjectID = "Mlq-wp-Ynh"; */
+"Mlq-wp-Ynh.text" = "Engine:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NwC-cJ-Huo"; */
+"NwC-cJ-Huo.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OFK-zO-q3C"; */
+"OFK-zO-q3C.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "XvU-DE-HNO"; */
+"XvU-DE-HNO.normalTitle" = "<";
+
+/* Class = "UIButton"; normalTitle = "Find"; ObjectID = "YH1-LY-Pv6"; */
+"YH1-LY-Pv6.normalTitle" = "Find";
+
+/* Class = "UITextField"; text = "price Car:"; ObjectID = "YuA-01-Q0P"; */
+"YuA-01-Q0P.text" = "price Car:";
+
+/* Class = "UITextField"; text = "Car Name"; ObjectID = "aeH-yI-S61"; */
+"aeH-yI-S61.text" = "Car Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b7J-oy-EcT"; */
+"b7J-oy-EcT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bYP-Vp-LWa"; */
+"bYP-Vp-LWa.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter your city"; ObjectID = "fW5-PL-bMn"; */
+"fW5-PL-bMn.placeholder" = "Enter your city";
+
+/* Class = "UILabel"; text = "price:"; ObjectID = "m3R-pl-fVh"; */
+"m3R-pl-fVh.text" = "price:";
+
+/* Class = "UILabel"; text = "car:"; ObjectID = "nyA-ok-PJd"; */
+"nyA-ok-PJd.text" = "car:";
+
+/* Class = "UITextField"; text = "Transmission:"; ObjectID = "o6c-tX-eTY"; */
+"o6c-tX-eTY.text" = "Transmission:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "tJo-98-lCM"; */
+"tJo-98-lCM.normalTitle" = "Done";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "v4L-34-osh"; */
+"v4L-34-osh.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zJL-W6-sUZ"; */
+"zJL-W6-sUZ.text" = "Label";

@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Fedir Korniienko on 05.06.17.
+
+*/
+"CAR LIST" = "CAR LIST";
+"Weather" = "Weather";
+"Info Car" = "Info Car";
+"manual" = "manual";
+"auto" = "auto";
+"new" = "new";
+"good" = "good";
+"old" = "old";
+"Engine: " = "Engine: ";
+"Transmission: " = "Transmission: ";
+"condition: " = "condition: ";
+"city: " = "city: ";
+"temperature: "  = "temperature: ";
+"description: " = "description: ";
+"price" = "price";
+"car" = "car";
+"Enter your city" = "Enter your city";
+"Done" = "Done";
+"Find" = "Find";
